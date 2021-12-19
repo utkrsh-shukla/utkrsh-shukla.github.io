@@ -1,7 +1,7 @@
-  > # ![!](images/gokuchild.jpg) Hii!! Its Utkarsh Shukla             
+  > # ![!](images/gokuchild.jpg) **Hii!! Its Utkarsh Shukla**             
 
 
-### Little Bit About My Boring Background
+## Little Bit About My Boring Background
 ___
 
   > **I come from Maths background**
@@ -22,7 +22,7 @@ ___
   > - I joined this program by seeing its syllabus 
   > - And I am proud of that decision
 
-### Little Bit About My Exciting Future Plan
+## Little Bit About My Exciting Future Plan
 ***
 
   > **Is it really Data Science??**
