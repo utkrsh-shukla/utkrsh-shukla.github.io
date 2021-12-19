@@ -32,3 +32,8 @@ ___
   > - Starting to learn Blockchain Technology and Ethical Hacking from Jan 2022  
 
 
+## Little Bit About My Little Skillset
+___
+
+Till 2021, I understand topics from Maths which are required for Data Science,
+I also have basiscs of Statistics knowledge. And I am working on my English skills, if talking technology I started learning ![](https://icons8.com/icon/Rc0Xn5AtE8kX/python--v2)
