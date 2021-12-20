@@ -16,7 +16,7 @@ ___
   > - I can't explain the joy of running a C++ code for factorial
 
 
-  > **Joining the DATA SCIENCE BSC degree program of [***IIT MADRAS***](https://onlinedegree.iitm.ac.in/index.html)**
+  > **Joining the DATA SCIENCE BSC degree program of [**IIT MADRAS**](https://onlinedegree.iitm.ac.in/index.html)**
   >
   > - At that time I didn't have any clue about data science
   > - I joined this program by seeing its syllabus 
