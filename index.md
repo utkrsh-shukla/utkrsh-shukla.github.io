@@ -35,11 +35,11 @@ ___
 ## Little Bit About My Little Skillset
 ___
 
-Till 2021, I understand topics from Maths which are required for Data Science, As of tech knowledge, I have some beginner level experience in C, C++ and Java. So i can pick up these languages in about 2 months. I have also taken Computational Thinking coursr which helped in developin an approach for solving problems.
+Till 2021, I understand topics from Maths which are required for Data Science, As of tech knowledge, I have some beginner level experience in C, C++ and Java. So i can pick up these languages in about 2 months. I have also taken Computational Thinking course which helped in developing an approach for solving problems.
 > ![](images/python--v2.gif) ![](images/github--v3.gif) 
 ![](15ddf26df65cd2f79d6f.jpg)
 >I also started to work on Python, Flutter and github
 
 ***
->> ![](images/icons8-mail-50.png) 
->> ##### 21f2001497@student.onlinedegree.iitm.ac.in
+> ![](images/icons8-mail-50.png) 
+> - ##### 21f2001497@student.onlinedegree.iitm.ac.in
