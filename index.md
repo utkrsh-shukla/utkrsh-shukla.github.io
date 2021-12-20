@@ -36,4 +36,5 @@ ___
 ___
 
 Till 2021, I understand topics from Maths which are required for Data Science,
-I also started to work on Python and Flutter ![](images/python--v2.gif) ![](images/github--v3.gif) ![](images/15ddf26df65cd2f79d6f.jpg)
+I also started to work on Python, Flutter and github ![](images/python--v2.gif) ![](images/github--v3.gif) 
+![](15ddf26df65cd2f79d6f.jpg)
