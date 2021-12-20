@@ -1,7 +1,7 @@
   > # ![!](images/gokuchild.jpg) **Hii!! Its Utkarsh Shukla**             
 
 
-## Little Bit About My Boring Background
+## Little Bit About My Boring Background 
 ___
 
   > **I come from Maths background**
@@ -36,4 +36,4 @@ ___
 ___
 
 Till 2021, I understand topics from Maths which are required for Data Science,
-I also have basiscs of Statistics knowledge. And I am working on my English skills, if talking technology I started learning ![](https://icons8.com/icon/Rc0Xn5AtE8kX/python--v2)
+I also started to work on Python and Flutter ![](images/python--v2.gif) ![](images/github--v3.gif) ![](images/15ddf26df65cd2f79d6f.jpg)
